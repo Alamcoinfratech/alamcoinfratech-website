@@ -33,7 +33,7 @@ const clientsData = [
   },
   {
     id: 5,
-    name: "National Forgings",
+    name: "NF Forgings",
     logo: "/clients/national-forgings.jpg",
     alt: "National Forgings Logo",
   },
