@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Target, Eye, Gem } from "lucide-react";
-
+ 
 // --------------------
 // Animation presets
 // --------------------
